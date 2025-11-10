@@ -1,4 +1,4 @@
-<H3>Name : SANJAY V</H3>
+<H3>Name : Sanjay V</H3>
 <H3>REGISTER NO: 212223230188 </H3>
 <H3>EX. NO.6</H3>
 <H3>DATE: 10/11/2025 </H3>
